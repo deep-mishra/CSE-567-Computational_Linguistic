@@ -6,7 +6,4 @@ Prolog program to convert the Roman to Decimal till 20 numbers
 
 Sample output:
 
-![output](Roman_Numerals_Conversion/output/output.png)
-
-The FST for the program is:
-![fst](Roman_Numerals_Conversion/FST.PNG)
+![output](Roman_Decimal_Conversion/output/output.png)
