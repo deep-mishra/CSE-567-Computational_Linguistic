@@ -6,4 +6,4 @@ Prolog program to conver Roman to Decimal and vice-versa till 20 numbers
 
 Sample outputs:
 
-![output](Roman_Decimal_Conversion/output/output.png)
+![output](Roman_Decimal_Convertor/output/output.png)
