@@ -8,5 +8,5 @@ Sample outputs:
 
 ![output](Roman_Decimal_Convertor/output/output.png)
 
-## Bigram Model
+## Bigram Model Evaluator
 Prolog project for application of bigram model to evaluate the correctness of english sentense
