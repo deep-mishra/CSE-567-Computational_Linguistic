@@ -3,7 +3,6 @@ Natural Language Processing Projects (implmented in Prolog)
 
 ## Roman Decimal Convertor
 **Problem:** Prolog program to convert Roman to Decimal and vice-versa till 20 numbers
-
 [RomanDecimalConversion.pl](roman-decimal-convertor/RomanDecimalConversion.pl)
 
 Sample outputs:
