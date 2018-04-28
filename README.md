@@ -1,7 +1,7 @@
 # CSE-567-Computational_Linguistic
 Natural Language Processing programs and projects (implmented in Prolog)
 
-## Roman Decimal Convertor
+## Program - Roman Decimal Convertor
 **Problem:** Prolog program to convert Roman to Decimal and vice-versa till 20 numbers
 
 [RomanDecimalConversion.pl](roman-decimal-convertor/RomanDecimalConversion.pl)
@@ -10,7 +10,7 @@ Natural Language Processing programs and projects (implmented in Prolog)
 
 ![output](roman-decimal-convertor/output/output.png)
 
-## Bigram Model Sentence Evaluator
+## Project - Bigram Model Sentence Evaluator
 **Problem:** Prolog project for application of bigram model to evaluate the correctness of english sentence.
 
 **Approach:**
