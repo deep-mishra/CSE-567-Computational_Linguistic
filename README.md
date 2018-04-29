@@ -13,6 +13,9 @@ Steps taken:
 2. Created a prolog readable [unigram.pl](bigram-sentense-evaluator/unigrams.pl) and [bigram.pl](bigram-sentense-evaluator/bigrams.pl) database from normalized corpus.
 3. In the final step, implemented [bigram_model.pl](bigram-sentense-evaluator/bigram_model.pl) which computes the probability of any word sequence, of any size, via a predicate called **calc_prob/2**. The predicate calc_prob/2 works in log space and applies laplace smoothing on fly to compute the probability of given sentence.
 
+**Sample outputs:** 
+![output1](bigram-sentense-evaluator/output/output1.png)
+![output2](bigram-sentense-evaluator/output/output2.png)
 
 ##
 ## Program - Roman Decimal Convertor
@@ -20,7 +23,7 @@ Steps taken:
 
 [RomanDecimalConversion.pl](roman-decimal-convertor/RomanDecimalConversion.pl)
 
-**Sample outputs**:
+**Sample outputs:** 
 
 ![output](roman-decimal-convertor/output/output.png)
 
