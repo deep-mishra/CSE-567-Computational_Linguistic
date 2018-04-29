@@ -25,8 +25,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 ##
 ## Program - Roman Decimal Convertor
 **Problem:** Prolog program to convert Roman to Decimal and vice-versa till 20 numbers
-
-[RomanDecimalConversion.pl](roman-decimal-convertor/RomanDecimalConversion.pl)
+**Program:** [RomanDecimalConversion.pl](roman-decimal-convertor/RomanDecimalConversion.pl)
 
 **Sample outputs:** 
 
