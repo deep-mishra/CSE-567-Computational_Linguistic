@@ -7,7 +7,7 @@ Natural Language Processing programs and projects (implmented in Prolog)
 **Approach:**
 The project constructs a Prolog bigram language model using small [DA_Corpus.text](bigram-sentense-evaluator/DA_Corpus.txt) corpus.
 
-Steps taken:
+Steps taken ([bigram_model.pl](bigram-sentense-evaluator/bigram_model.pl)):
 
 1. The [DA_Corpus.text](bigram-sentense-evaluator/DA_Corpus.txt) corpus is normalized using [unix](bigram-sentense-evaluator/unix_commands.txt) commands.
 2. Created a prolog readable [unigram.pl](bigram-sentense-evaluator/unigrams.pl) and [bigram.pl](bigram-sentense-evaluator/bigrams.pl) database from normalized corpus.
