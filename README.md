@@ -14,7 +14,7 @@ Steps taken:
 3. In the final step, implemented [bigram_model.pl](bigram-sentense-evaluator/bigram_model.pl) which computes the probability of any word sequence, of any size, via a predicate called **calc_prob/2**. The predicate calc_prob/2 works in log space and applies laplace smoothing on fly to compute the probability of given sentence.
 
 **Sample outputs:** 
-As how in the output below, sentence like "the book fell" will have better value than "i fell on the book"
+As shown in the output below, sentence like "the book fell" will have better value than "i fell on the book"
 
 ![output1](bigram-sentense-evaluator/output/output1.png)
 
