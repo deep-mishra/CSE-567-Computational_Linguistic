@@ -1,7 +1,7 @@
 # CSE-567-Computational_Linguistic
 Natural Language Processing programs and projects (implmented in Prolog)
 ##
-## Project - Bigram Model Sentence Evaluator
+## 1 Project - Bigram Model Sentence Evaluator
 **Problem:** Prolog project for application of bigram model to evaluate the correctness of english sentence.
 
 **Approach:**
@@ -23,7 +23,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 ![output2](bigram-sentense-evaluator/output/output2.png)
 
 ##
-## Program - Roman Decimal Convertor
+## 2 Program - Roman Decimal Convertor
 **Problem:** Prolog program to convert Roman to Decimal and vice-versa till 20 numbers
 
 **Program:** [RomanDecimalConversion.pl](roman-decimal-convertor/RomanDecimalConversion.pl)
