@@ -24,7 +24,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 
 ##
 ## 2) Project - Word Similarity
-**Problem:** Prolog project for finding word similarity and 
+**Problem:** Prolog project for finding the cosine similarity between two given words and finding most similar words of a given word
 
 **Approach:**
 
