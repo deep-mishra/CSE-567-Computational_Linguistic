@@ -23,13 +23,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 ![output2](bigram-sentense-evaluator/output/output2.png)
 
 ##
-## 2) Project - Word Similarity
-**Problem:** Prolog project for finding the cosine similarity between two given words and finding most similar words of a given word
-
-**Approach:**
-
-##
-## 3) Program - Roman Decimal Convertor
+## 2) Program - Roman Decimal Convertor
 **Problem:** Prolog program to convert Roman to Decimal and vice-versa till 20 numbers
 
 **Program:** [RomanDecimalConversion.pl](roman-decimal-convertor/RomanDecimalConversion.pl)
@@ -39,3 +33,9 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 ![output](roman-decimal-convertor/output/output.png)
 
 
+##
+## 3) Project - Word Similarity
+**Problem:** Prolog project for finding the cosine similarity between two given words and finding most similar words of a given word
+
+**Approach:**
+In progress..
