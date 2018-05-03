@@ -38,4 +38,4 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 **Problem:** Prolog project for finding the cosine similarity between two given words and finding most similar words of a given word
 
 **Approach:**
-In progress..
+  In progress..
