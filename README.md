@@ -2,7 +2,7 @@
 Natural Language Processing programs and projects (implmented in Prolog)
 ##
 ## 1) Project - Bigram Model Sentence Evaluator
-**Problem:** Prolog project for application of bigram model to evaluate the correctness of english sentence.
+**Problem:** Prolog project to evaluate the correctness of english sentence using bigram model
 
 **Approach:**
 The project constructs a Prolog bigram language model using small [DA_Corpus.text](bigram-sentense-evaluator/DA_Corpus.txt) corpus.
@@ -33,3 +33,9 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 ![output](roman-decimal-convertor/output/output.png)
 
 
+##
+## 3) Project - Word Similarity
+**Problem:** Prolog project for finding the cosine similarity between two given words and finding most similar words of a given word
+
+**Approach:**
+  In progress..
