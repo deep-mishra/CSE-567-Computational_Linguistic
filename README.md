@@ -35,6 +35,9 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 ##
 ## 3) Project - Sentence Tagger
 
+**Problem:** Identify all possible tags for given sentence with there correctness probability.
+
+
 ##
 ## 4) Project - Word Similarity
 **Problem:** Prolog project for finding the cosine similarity between two given words and finding most similar words of a given word
