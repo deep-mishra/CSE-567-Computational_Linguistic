@@ -121,6 +121,8 @@ sed -i "s/\.\( \+\.\)\+/\./g" DA_Normalized.txt
 
 ## COMMAND USED TO GENERATE THE TAGS USING Standford Parser (IT REQUIRES DA_Normalized.txt)
 
+## Download the Standford parser from https://nlp.stanford.edu/software/stanford-postagger-2018-02-27.zip
+
 java -cp "*" edu.stanford.nlp.tagger.maxent.MaxentTagger -model models/english-left3words-distsim.tagger -textFile DA_Normalized.txt -tokenize true -outputFormat tsv -outputFile TDA.txt
 
 
