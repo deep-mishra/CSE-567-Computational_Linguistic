@@ -32,9 +32,11 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 
 ![output](roman-decimal-convertor/output/output.png)
 
+##
+## 3) Project - Sentence Tagger
 
 ##
-## 3) Project - Word Similarity
+## 4) Project - Word Similarity
 **Problem:** Prolog project for finding the cosine similarity between two given words and finding most similar words of a given word
 
 **Approach:**
