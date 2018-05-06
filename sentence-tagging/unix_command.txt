@@ -3,7 +3,7 @@
 
 /* REMOVING THE UNWANTED CHARACTERS */
 
-sed "s/[()]//g" DA.txt > DA_New.txt
+sed "s/[()]//g" DA_Corpus.txt > DA_New.txt
 sed -i 's/\,//g' DA_New.txt     
 sed -i 's/|//g' DA_New.txt 
 sed -i "s/\.\.\.//g" DA_New.txt
