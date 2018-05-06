@@ -37,6 +37,8 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 
 **Problem:** Identify all possible tags for given sentence with there correctness probability.
 
+**Approach:**
+  In Progress
 
 ##
 ## 4) Project - Word Similarity
