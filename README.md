@@ -38,7 +38,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 **Problem:** Identify all possible tags for given sentence with there correctness probability.
 
 **Approach:** The project makes use of Viterbi algorithm to compute all the possible tag list with probability for given sentence.
-[tagger.pl](roman-decimal-convertor/RomanDecimalConversion.pl)
+[tagger.pl](sentence-tagging/hmm_tagger.pl)
 
 **Sample outputs:**
 ![output](sentence-tagging/output/output.PNG)
