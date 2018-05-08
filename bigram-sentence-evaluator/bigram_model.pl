@@ -1,4 +1,4 @@
-:-['unigram_deepnara.pl','bigram_deepnara.pl'].
+:-['unigrams.pl','bigrams.pl'].
 
 /* Rules to check if unigram,bigram for given word is present or not and return 0 if 'not found' else return the respective value*/
 calc_unigram(X,W):- unigram(Y,W) -> X is Y; X is 0.
