@@ -42,7 +42,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 
 **Sample outputs:**
 
-![output](sentence-tagging/output/output.PNG)
+![output1](sentence-tagging/output/output.PNG)
 
 ##
 ## 4) Project - Word Similarity
