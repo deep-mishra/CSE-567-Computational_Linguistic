@@ -41,6 +41,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 [tagger.pl](sentence-tagging/hmm_tagger.pl)
 
 **Sample outputs:**
+
 ![output](sentence-tagging/output/output.PNG)
 
 ##
