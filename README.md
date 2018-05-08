@@ -37,8 +37,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 
 **Problem:** Identify all possible tags for given sentence with there correctness probability.
 
-**Approach:**
-  In Progress
+**Approach:** The project makes use of Viterbi algorithm to compute all the possible tag list with probability for given sentence.
 
 ##
 ## 4) Project - Word Similarity
