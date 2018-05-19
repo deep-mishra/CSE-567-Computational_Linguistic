@@ -53,7 +53,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
   
 ##
 ## 5) Project - Natural language interface for fridge
-**Problem:** Develop a Natural Language interface for Fridge
+**Problem:** Develop a Natural Language interface for Fridge. The interface should be capable for parsing english sentence.
 
 **Approach:**
   In progress..
