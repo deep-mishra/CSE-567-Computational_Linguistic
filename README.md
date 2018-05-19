@@ -50,3 +50,10 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 
 **Approach:**
   In progress..
+  
+##
+## 5) Project - Natural language interface for fridge
+**Problem:** Develop a Natural Language interface for Fridge
+
+**Approach:**
+  In progress..
