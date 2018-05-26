@@ -50,3 +50,10 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 
 **Approach:**
   In progress..
+  
+##
+## 5) Project - Natural language interface for fridge
+**Problem:** Develop a Natural Language interface for Fridge. The interface should be capable for parsing english sentence, evaluating the data from data model (mini database), and respond to user query appropriately.
+
+**Approach:**
+  In progress..
