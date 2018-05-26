@@ -55,7 +55,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 ## 5) Project - Smart Refrigerator - A Natural language interface for fridge
 **Problem:** Develop a Natural Language interface for Fridge. The interface should be capable for parsing english sentence, evaluating the data from data model (mini database), and respond to user query appropriately.
 
-[Smart Refrigerator].(smart-refrigerator/code)
+[Smart Refrigerator](bigram-sentence-evaluator/DA_Corpus.txt)
 
 **Approach:**
   In progress..
