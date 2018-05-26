@@ -52,7 +52,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
   In progress..
   
 ##
-## 5) Project - Smart Refrigerator - A Natural language interface for fridge
+## 5) Project - Smart Refrigerator - A Natural language interface for fridge [].(CSE-567-Computational_Linguistic/smart-refrigerator/)
 **Problem:** Develop a Natural Language interface for Fridge. The interface should be capable for parsing english sentence, evaluating the data from data model (mini database), and respond to user query appropriately.
 
 **Approach:**
