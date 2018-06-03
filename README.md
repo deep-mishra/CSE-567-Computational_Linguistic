@@ -60,4 +60,6 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 [Smart Refrigerator](smart-refrigerator)
 
 **Approach:**
-  In progress..
+  The project is divided into three sub modules namely Parsing, Evaluation, and Response.
+  
+  Parsing module applies First Order Logic on tokenized input string to create the formula for given sentence.
