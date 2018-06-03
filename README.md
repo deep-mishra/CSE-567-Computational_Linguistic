@@ -62,4 +62,4 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 **Approach:**
   The project is divided into three sub modules namely Parsing, Evaluation, and Response.
   
-  Parsing module applies First Order Logic on tokenized input string to create the formula for given sentence.
+  Parsing module applies First Order Logic on tokenized input string to create the formula for given sentence. It does this by applying lexicons and rules of english grammer. The module uses augmented version of SR Parser (Shift Reduce Parser) to parse the sentence.
