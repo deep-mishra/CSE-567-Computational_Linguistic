@@ -60,6 +60,8 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 [Smart Refrigerator](smart-refrigerator)
 
 **Approach:**
-  The project is divided into three sub modules namely Parsing, Evaluation, and Response.
+  The project is divided into three sub modules namely Parsing, ModelChecker, and Response.
   
   Parsing module applies First Order Logic on tokenized input string to create the formula for given sentence. It does this by applying lexicons and rules of english grammer. The module uses augmented version of SR Parser (Shift Reduce Parser) to parse the sentence.
+  
+  ModelChecker evaluate the output of Parser using model data (Prolog database for fridge). It identifies if the sentence was declarative, interrogative or content question.  
