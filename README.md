@@ -51,7 +51,7 @@ Similarly the sentence like "the book that he wanted fell on my feet" will have 
 [Word Similarity](word-similarity)
 
 **Approach:**
-  In progress..
+  The project applies cosine distance rule to find the probability of two words similarity. This is then extended to identify and rank all the similar words for given word.
   
 ##
 ## 5) Project - Smart Refrigerator - A Natural language interface for fridge
