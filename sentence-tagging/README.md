@@ -1,6 +1,6 @@
 
 ##
-## 3) Project - Sentence Tagger
+## Sentence Tagger
 
 **Problem:** Identify all possible tags for given sentence with there correctness probability.
 
