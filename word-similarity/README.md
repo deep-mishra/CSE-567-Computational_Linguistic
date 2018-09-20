@@ -1,6 +1,6 @@
 
 ##
-## 4) Project - Word Similarity
+## Word Similarity
 **Problem:** Prolog project for finding the cosine similarity between two given words and finding most similar words of a given word
 
 [Word Similarity](word-similarity)
