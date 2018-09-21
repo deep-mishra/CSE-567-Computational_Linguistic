@@ -3,7 +3,7 @@
 ## Smart Refrigerator - A Natural language interface for fridge
 **Problem:** Develop a Natural Language interface for Fridge. The interface should be capable for parsing english sentence, evaluating the data from data model (mini database), and respond to user query appropriately.
 
-[Smart Refrigerator](smart-refrigerator)
+[Smart Refrigerator - code](code)
 
 **Approach:**
   The project is divided into three sub modules namely Parsing, ModelChecker, and Response.
